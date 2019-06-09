@@ -1,4 +1,6 @@
 # Bushu Anki Deck
+[Download from AnkiWeb](https://ankiweb.net/shared/info/1323364326)
+
 ![screenshot](screenshot.png)
 
 ## What is this?
