@@ -1,6 +1,4 @@
-# bushu
-Forget the Kanji, remember the Radicals!
-
+# Bushu Anki Deck
 ![screenshot](screenshot.png)
 
 ## What?
