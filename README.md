@@ -22,10 +22,10 @@ As I have been using this deck for a year, I now have enough confidence in this 
 
 The pen and paper is important as I believe writing radicals really helps commit the radical and its stroke order to memory. As I side effect of studying this deck I have noticed I can often write  kanji their correct stroke order, even in the case of unfamiliar kanji. 
 
-I studied only 10 new radicals a day and at the same time was studying my vocabulary deck which contains words with example sentences containing kanji with furigana. I also read books with furigana and watch Japanese media with subtitles. I've changed my deck options 'Leech action' to 'Tag Only' as I don't want any of these cards to be suspended.
+I studied only 10 new radicals a day and at the same time was studying my vocabulary deck which contains words with example sentences containing kanji with furigana. I also read books with furigana and watch Japanese media with subtitles. Also, I changed my deck's 'Leech action' to 'Tag Only' as I don't want any of these cards to be suspended.
 
 ## About this deck
-There are 214 official radicals, however, this deck has only 190 radicals, 67 of which are pure radicals, 123 of which are kanji that are also used as radicals. The rest were removed as because you will not encounter them frequently as radicals. As this deck also contains example kanji to demonstrate how radicals appear within kanji, upon finishing this deck you will be practised in writing out nearly 600 joyo kanji.
+There are 214 official radicals, however, this deck has only 190 radicals, 67 of which are pure radicals, 123 of which are kanji that are also used as radicals. The rest were removed as you will not encounter them frequently as radicals. As this deck also contains example joyo kanji to demonstrate how radicals are used within kanji, upon finishing this deck you will be practised in writing out nearly 600 joyo kanji.
 
 Cards with a purple background are radicals. Cards with a red background are kanji that are also used as radicals. The blue icon next to the Japanese name shows the position the radial most commonly appears.
 
@@ -42,4 +42,3 @@ Cards with a purple background are radicals. Cards with a red background are kan
 - http://kanjivg.tagaini.net
 - https://ejje.weblio.jp/
 - Special thanks to Risa who has been pestered almost daily with perhaps hundreds of questions from me during the making of this!
-
